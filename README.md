@@ -44,20 +44,27 @@ npm start
 ## Testing (Postman)
 
 **POST /api/komik**
-![POST](<img width="1535" height="677" alt="image" src="https://github.com/user-attachments/assets/5a55c947-8956-468c-b727-9f05ab0eb088" />
+![POST](<img width="1536" height="593" alt="post" src="https://github.com/user-attachments/assets/0e361e2f-7d00-4494-b49e-ec2bbd17408a" />
+
 )
 
 **GET /api/komik**
-![GET](<img width="1536" height="912" alt="image" src="https://github.com/user-attachments/assets/5b17f68c-4692-4398-9b58-1bdd4f5046ff" />
+![GET](<img 
+width="1536" height="914" alt="get" src="https://github.com/user-attachments/assets/5ee90bbf-4dce-433a-9103-a911c64aa2f9" />
 )
 
 **GET /api/komik/:id**
-![GET by ID](	http://localhost:3000/api/komik/1)
+![GET by ID](	<img 
+<img width="1536" height="588" alt="delete" src="https://github.com/user-attachments/assets/f38ee63c-f925-4225-8daf-ef55d9d74859" />
+)
 
 **PUT /api/komik/:id**
-![PUT](<img width="1536" height="680" alt="image" src="https://github.com/user-attachments/assets/35a38485-83cd-4a89-b5e7-a961e378d1f6" />
+![PUT](<img width="1536" height="600" alt="put" src="https://github.com/user-attachments/assets/7a6d879c-e1bc-460a-94e3-a80edfefa4d0" />
+
 )
 
 **DELETE /api/komik/:id**
-![DELETE](<img width="1536" height="543" alt="image" src="https://github.com/user-attachments/assets/e88e2b73-8c89-4951-be68-09047d71636f" />
-)
+![DELETE](<img
+width="1536" height="588" alt="delete" src="https://github.com/user-attachments/assets/708934fb-8fd3-4b25-b226-c7b553e7b3fd" />)
+
+
